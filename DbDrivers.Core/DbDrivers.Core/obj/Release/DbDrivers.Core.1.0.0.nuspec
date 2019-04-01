@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>DbDrivers.Core</id>
+    <version>1.0.0</version>
+    <authors>DbDrivers.Core</authors>
+    <owners>DbDrivers.Core</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="MySql.Data" version="8.0.15" exclude="Build,Analyzers" />
+        <dependency id="Oracle.ManagedDataAccess.Core" version="2.18.6" exclude="Build,Analyzers" />
+        <dependency id="System.Data.Common" version="4.3.0" exclude="Build,Analyzers" />
+        <dependency id="System.Data.SqlClient" version="4.7.0-preview3.19128.7" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="d:\Users\欧彬\Desktop\DbDrivers.Core\DbDrivers.Core\bin\Release\netstandard2.0\DbDrivers.Core.dll" target="lib\netstandard2.0\DbDrivers.Core.dll" />
+  </files>
+</package>

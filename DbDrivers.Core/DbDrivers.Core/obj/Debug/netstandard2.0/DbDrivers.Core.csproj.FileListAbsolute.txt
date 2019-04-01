@@ -1,0 +1,9 @@
+d:\Users\欧彬\Desktop\DbDrivers.Core\DbDrivers.Core\bin\Debug\netstandard2.0\DbDrivers.Core.deps.json
+d:\Users\欧彬\Desktop\DbDrivers.Core\DbDrivers.Core\bin\Debug\netstandard2.0\DbDrivers.Core.dll
+d:\Users\欧彬\Desktop\DbDrivers.Core\DbDrivers.Core\obj\Debug\netstandard2.0\DbDrivers.Core.csprojAssemblyReference.cache
+d:\Users\欧彬\Desktop\DbDrivers.Core\DbDrivers.Core\obj\Debug\netstandard2.0\DbDrivers.Core.csproj.CoreCompileInputs.cache
+d:\Users\欧彬\Desktop\DbDrivers.Core\DbDrivers.Core\obj\Debug\netstandard2.0\DbDrivers.Core.AssemblyInfoInputs.cache
+d:\Users\欧彬\Desktop\DbDrivers.Core\DbDrivers.Core\obj\Debug\netstandard2.0\DbDrivers.Core.AssemblyInfo.cs
+d:\Users\欧彬\Desktop\DbDrivers.Core\DbDrivers.Core\bin\Debug\netstandard2.0\DbDrivers.Core.pdb
+d:\Users\欧彬\Desktop\DbDrivers.Core\DbDrivers.Core\obj\Debug\netstandard2.0\DbDrivers.Core.dll
+d:\Users\欧彬\Desktop\DbDrivers.Core\DbDrivers.Core\obj\Debug\netstandard2.0\DbDrivers.Core.pdb
